@@ -1,0 +1,8 @@
+# This file controls the main navigation bar.
+main:
+  - title: Nouvelles
+    url: /nouvelles/
+  - title: Sorties du dimanche
+    url: /sorties_du_dimanche/
+  - title: Sorties annuelles
+    url: /sorties_annuelles/
