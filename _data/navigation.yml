@@ -8,3 +8,5 @@ main:
     url: /sorties_annuelles/
   - title: S'inscrire
     url: /inscriptions/
+  - title: Contact
+    url: mailto:contact@leschoucascellois.org
