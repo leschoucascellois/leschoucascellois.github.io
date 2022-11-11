@@ -1,7 +1,7 @@
 # This file controls the main navigation bar.
 main:
-  - title: Nouvelles
-    url: /nouvelles/
+  - title: Actualités
+    url: /actualites/
   - title: Sorties du dimanche
     url: /sorties_du_dimanche/
   - title: Sorties annuelles
