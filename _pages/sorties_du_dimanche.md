@@ -7,6 +7,17 @@ header:
   overlay_image: /assets/images/bandeaux/animation.webp
 sidebar:
   - image: /assets/images/sorties_du_dimanche.jpg
+gallery1:
+  - url: /assets/images/cartes/Marly.png
+    image_path: /assets/images/cartes/Marly.png
+    title: "Tour de la forêt de Marly: 36km, 650D+"
+  - url: /assets/images/cartes/Meudon.png
+    image_path: /assets/images/cartes/Meudon.png
+    title: "Meudon et la Minière: de 37 à 57km, de 400 à 800D+"
+  - url: /assets/images/cartes/Fausses.png
+    image_path: /assets/images/cartes/Fausses.png
+    title: "Fausses-Reposes, Meudon, Boulogne, Rueil: de 23 à 37km, de 300 à 500D+"
+
 ---
 
 Nos sorties ont lieu chaque dimanche matin
@@ -15,22 +26,15 @@ Nos sorties ont lieu chaque dimanche matin
 Le départ se fait au club **à 8h30 en été**, de mai à octobre,
 et **à 9h en hiver**, d'octobre à mai.
 
-Nous parcourons habituellement **de 30 à 60km**, suivant les participant(e)s et les
-conditions météo, sur les chemins et sentiers des Yvelines mais également des
-Hauts de Seine, du Val d'Oise et de l'Essonne.
+Nous parcourons habituellement **de 30 à 60km**, suivant les participant(e)s
+et les conditions météo, sur les chemins et sentiers des Yvelines mais
+également des Hauts de Seine, du Val d'Oise et de l'Essonne.
 
-Voici quelques-unes de nos traces:
+Nous avons la chance de nous situer **au carrefour de nombreuses forêts**,
+dont celles de Marly, Saint-Germain-en-Laye, Saint-Cucufa, Fausses-Reposes,
+Meudon, Verrières, Versailles, Bois d'Arcy, Sainte-Apolline, et Port-Royal.
+Les Choucas les plus chevronnés **connaissent ces bois et leurs
+*single-tracks* comme leur poche** et se font un plaisir de les faire
+découvrir aux membres plus récents du club.
 
-* [Meudon, Minière, 40km, 600D+](https://www.openrunner.com/route-details/11608354)
-* [La Minière à double sens, 45km, 700D+](https://www.openrunner.com/route-details/14287723)
-* [Meudon, Verrières, 50km, 700D+](https://www.openrunner.com/route-details/11913678)
-* [Élancourt, 52km, 500D+](https://www.openrunner.com/route-details/11951331)
-* [Mérantaise, Minière, 52km, 800D+](https://www.openrunner.com/route-details/11605536)
-* [Marly et plaine de Versailles, 56km, 700D+](https://www.openrunner.com/route-details/10684100)
-* [Meudon, Minière, plaine de Versailles, 54km, 900D+](https://www.openrunner.com/route-details/14428989)
-* [Saint-Germain, 60km, 600D+](https://www.openrunner.com/route-details/12171704)
-* [Plaisir, 60km, 700D+](https://www.openrunner.com/route-details/15631107)
-* [Verrières et Saclay, 60km, 1200D+](https://www.openrunner.com/route-details/14346340)
-* [Chevreuse, 72km, 900D+](https://www.openrunner.com/route-details/15346216)
-* [Vallée de l'Yvette, 76km, 1000D+](https://www.openrunner.com/route-details/14397634)
-* [Guerville, 85km, 1200D+](https://www.openrunner.com/route-details/14910286)
+{% include gallery id="gallery1" %}
