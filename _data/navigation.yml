@@ -6,3 +6,5 @@ main:
     url: /sorties_du_dimanche/
   - title: Sorties annuelles
     url: /sorties_annuelles/
+  - title: S'inscrire
+    url: /inscriptions/
