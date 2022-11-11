@@ -14,7 +14,6 @@
 
 locale: "fr"
 title: Les Choucas Cellois
-email: contact@leschoucascellois.org
 description: >- # this means to ignore newlines until "baseurl:"
   Les Choucas Cellois, club VTT, La Celle Saint-Cloud, Yvelines, France.
 baseurl: "" # the subpath of your site, e.g. /blog
