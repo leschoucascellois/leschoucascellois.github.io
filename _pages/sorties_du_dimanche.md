@@ -8,14 +8,14 @@ header:
 sidebar:
   - image: /assets/images/sorties_du_dimanche.jpg
 gallery1:
-  - url: /assets/images/cartes/Marly.png
-    image_path: /assets/images/cartes/Marly.png
+  - url: /assets/images/cartes/Marly.jpg
+    image_path: /assets/images/cartes/Marly-small.jpg
     title: "Tour de la forêt de Marly: 36km, 650D+"
-  - url: /assets/images/cartes/Meudon.png
-    image_path: /assets/images/cartes/Meudon.png
+  - url: /assets/images/cartes/Meudon.jpg
+    image_path: /assets/images/cartes/Meudon-small.jpg
     title: "Meudon et la Minière: de 37 à 57km, de 400 à 800D+"
-  - url: /assets/images/cartes/Fausses.png
-    image_path: /assets/images/cartes/Fausses.png
+  - url: /assets/images/cartes/Fausses.jpg
+    image_path: /assets/images/cartes/Fausses-small.jpg
     title: "Fausses-Reposes, Meudon, Boulogne, Rueil: de 23 à 37km, de 300 à 500D+"
 
 ---
