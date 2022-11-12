@@ -15,9 +15,15 @@ Le thème choisi est
 ## Contenu du site
 
 Le fichier de configuration principal est [_config.yml](_config.yml).
+Différents réglages,
+dont la configuration de la barre inférieure,
+se trouvent dans ce fichier.
 
-La barre de navigation est configurée dans
+La barre supérieure de navigation est configurée dans
 [_data/navigation.yml](_data/navigation.yml).
+
+L'adresse de contact des Choucas se trouve en deux points:
+la barre inférieure et la barre supérieure.
 
 La page principale se trouve dans [index.md](index.md).
 
