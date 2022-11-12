@@ -36,7 +36,7 @@ footer:
   links:
   - label: "Email"
     icon: "fa fa-envelope"
-    url: "mailto:contact@leschoucascellois.org"
+    url: "mailto:contact_mail@leschoucascellois.org"
   - label: "Mentions légales"
     url: "/mentions_legales/"
   - label: "Agenda"
