@@ -11,7 +11,8 @@ sidebar:
 ---
 
 Avant de vous inscrire, nous vous conseillons de découvrir le club via la
-formule "invité". Nous vous proposons **trois sorties gratuites et sans
+formule "invité". Nous vous proposons d'essayer nos [sorties du
+dimanche](/sorties_du_dimanche/) via **trois sorties gratuites et sans
 engagement**. Vous serez couverts par notre assurance responsabilité civile.
 Nous vous demandons simplement de nous prévenir quelques jours à l'avance.
 
