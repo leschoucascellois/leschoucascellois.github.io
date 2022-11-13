@@ -32,6 +32,7 @@ plugins:
 # Look for files inside the following directories:
 include: ["_pages"]
 
+# Configuration of the footer that appears at the bottom of each page.
 footer:
   links:
   - label: "Email"
