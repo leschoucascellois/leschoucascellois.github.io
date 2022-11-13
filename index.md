@@ -3,7 +3,7 @@ layout: splash
 header:
 # Use either image: or overlay_image: here.
 # If overlay_image is used, then the title appears on top of it,
-#   but this makes the image height very small.
+# but this makes the image height very small.
   image: /assets/images/bandeaux/animation.webp
 feature_row:
   - image_path: /assets/images/sorties_du_dimanche.jpg
