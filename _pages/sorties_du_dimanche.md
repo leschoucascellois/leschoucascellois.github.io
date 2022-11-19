@@ -24,7 +24,7 @@ Nos sorties ont lieu **chaque dimanche matin**.
 Le départ se fait au club **à 8h30 en été**, de mai à octobre,
 et **à 9h en hiver**, d'octobre à mai.
 Au-delà du dimanche matin, les membres du club sont bien sûr
-libres d'organiser d'autres sorties, en VTT ou sur route.
+libres d'organiser d'autres sorties, en VTT, gravel ou sur route.
 
 Nous parcourons habituellement **de 30 à 60km**, suivant les participant(e)s
 et les conditions météo, sur les chemins et sentiers des Yvelines mais
