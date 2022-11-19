@@ -37,4 +37,9 @@ Les Choucas les plus chevronnés **connaissent ces bois et leurs
 *single-tracks* comme leur poche** et se font un plaisir de les faire
 découvrir aux membres plus récents du club.
 
+Par ailleurs, nous organisons régulièrement des
+[stages de maniabilité](/stages/2020/10/04/maniabilite.html)
+pour perfectionner notre technique
+avec les conseils d'un moniteur VTT.
+
 {% include gallery id="gallery1" %}
