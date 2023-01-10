@@ -45,7 +45,7 @@ et un multi-outil comportant des tournevis, clefs Allen, clef Torx, etc.
 
 ## Tarif et inscription
 
-Le tarif annuel de **78 euros** comprend votre adhésion au club,
+Le tarif annuel de **79 euros** comprend votre adhésion au club,
 une assurance responsabilité civile dite *mini braquet*,
 ainsi que votre licence de la
 [Fédération Française de Cyclotourisme](https://ffvelo.fr/){:target="_blank"}.
@@ -58,4 +58,4 @@ effectuée à partir de septembre est valable pour la fin de l'année en cours e
 pour toute l'année suivante.
 
 Pour plus de détails et pour vous inscrire, veuillez consulter notre
-[page d'inscription](https://www.helloasso.com/associations/les-choucas-cellois/adhesions/adhesion-les-choucas-cellois-fiches-d-inscription-2022){:target="_blank"}.
+[page d'inscription](https://www.helloasso.com/associations/les-choucas-cellois/adhesions/adhesion-les-choucas-cellois-fiches-d-inscription-2023){:target="_blank"}.
