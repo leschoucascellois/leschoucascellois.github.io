@@ -13,7 +13,7 @@ header:
 
 **Adresse**: 5 allée Victor Hugo, 78170 La Celle Saint-Cloud, France
 
-**Directeur de la publication**: Stéphane de Graeve
+**Directeur de la publication**: Laurent Pomié
 
 **Hébergeur**:
   Github Pages,
