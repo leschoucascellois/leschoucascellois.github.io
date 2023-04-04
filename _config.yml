@@ -43,3 +43,6 @@ footer:
   - label: "Agenda"
     icon: "fa fa-calendar"
     url: "https://calendar.google.com/calendar/u/0/embed?src=president@leschoucascellois.org&ctz=Europe/Paris"
+  - label: "Facebook"
+    icon: "fab fa-facebook"
+    url: "https://www.facebook.com/leschoucascellois/"
