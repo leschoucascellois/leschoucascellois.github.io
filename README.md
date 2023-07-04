@@ -6,7 +6,8 @@ Ce dépôt contient le site Web des Choucas Cellois.
 
 Le site est hébergé par [Github Pages](https://pages.github.com/).
 
-Son adresse publique est [https://www.leschoucascellois.org](https://www.leschoucascellois.org). Cette adresse est en fait redirigée (au niveau DNS) vers [https://leschoucascellois.github.io/](https://leschoucascellois.github.io/).
+Son adresse publique est [https://www.leschoucascellois.org](https://www.leschoucascellois.org).
+Cette adresse est en fait redirigée (au niveau DNS) vers [https://leschoucascellois.github.io/](https://leschoucascellois.github.io/).
 
 Ce site est *statique*, ce qui signifie qu'il ne contient que des pages au format HTML et CSS. Cela le rend plus simple, plus rapide. Cela garantit qu'il ne dépose aucun cookie chez les visiteurs, ne collecte aucune donnée personnelle, et ne contient pas de failles de sécurité.
 
@@ -192,3 +193,14 @@ Une fois le serveur lancé, il vous reste à accéder au site
 ```bash
   open http://localhost:4000/
 ```
+
+## Redirection DNS
+
+Pour gérer les redirections DNS, il faut aller sur le site de notre
+fournisseur de nom de domaine,
+[Ionos](https://my.ionos.fr/domains),
+et effectuer les réglages nécessaires.
+
+Le mot de passe se trouve
+dans notre gestionnaire de mots de passe,
+[Dashlane](https://app.dashlane.com/#/login).
