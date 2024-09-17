@@ -28,7 +28,7 @@ feature_row:
              rassemble environ 500 participant(e)s.
              Elle est organisée par l'ensemble des Choucas
              pour faire partager notre passion et nos chemins.
-    url:     http://www.g8c.fr/
+    url:     https://grand8cellois.github.io/
     btn_label: Le site du Grand Huit Cellois
 ---
 
