@@ -21,6 +21,7 @@ Voici les prochaines grandes sorties prévues:
 
 Voici nos grandes sorties les plus récentes:
 
+* [Coteaux du Layon, octobre 2024](/sorties_annuelles/2024/10/19/anjou.html)
 * [Vosges, mai 2024](/sorties_annuelles/2024/05/09/vosges.html)
 * [Sancerre, septembre 2023](/sorties_annuelles/2023/09/30/sancerre.html)
 * [Morvan, mai 2023](/sorties_annuelles/2023/05/18/morvan.html)
