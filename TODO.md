@@ -1,7 +1,6 @@
-* Ajouter une page "bureau", avec un trombinoscope?
-  Pour chacun, prénom, photo, et petit paragraphe humoristique de présentation.
-    Stéphane, "meilleur connaisseur des hôpitaux de l'Ouest parisien"
-    Laurent, "Cardio Bruno, à fond!"
+* Ajouter quelque chose sur le team building.
+  VTT + références culturelles ou historiques à la région;
+  Stéphane a fait un document (cf. Mega).
 
 * Améliorer la redirection depuis www.leschoucascellois.org;
   on voudrait une vraie redirection DNS.
