@@ -11,14 +11,14 @@ animation.webp: $(FRAMES)
 
 # Convert .jpg to .png.
 %.png: %.jpg
-	magick convert $< $@
+	magick $< $@
 
 # Annotate a .png image with a superimposed caption.
 # The source image is %.png.
 # The caption is read from %.txt.
 # The annotated image is %-annotated.png.
 %-annotated.png: %.png %.txt
-	magick convert $< \
+	magick $< \
 	  -font helvetica -fill white -pointsize 48 \
 	  -gravity southwest -annotate +60+60 "$(shell cat $*.txt)" \
 	  $*-annotated.png
