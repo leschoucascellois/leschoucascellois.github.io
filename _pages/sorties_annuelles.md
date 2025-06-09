@@ -17,10 +17,11 @@ Ces séjours sont sportifs, convivaux et gastronomiques!
 
 Voici les prochaines grandes sorties prévues:
 
-* Ascension 2025: Jura?
+* Automne 2025: Champagne
 
 Voici nos grandes sorties les plus récentes:
 
+* [Jura, mai 2025](/sorties_annuelles/2025/06/01/jura.html)
 * [Coteaux du Layon, octobre 2024](/sorties_annuelles/2024/10/19/anjou.html)
 * [Vosges, mai 2024](/sorties_annuelles/2024/05/09/vosges.html)
 * [Sancerre, septembre 2023](/sorties_annuelles/2023/09/30/sancerre.html)
