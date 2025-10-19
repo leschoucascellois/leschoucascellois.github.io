@@ -17,10 +17,11 @@ Ces séjours sont sportifs, convivaux et gastronomiques!
 
 Voici les prochaines grandes sorties prévues:
 
-* Automne 2025: Champagne
+* Printemps 2026: Massif Central?
 
 Voici nos grandes sorties les plus récentes:
 
+* [Champagne, octobre 2025](/sorties_annuelles/2025/10/10/champagne.html)
 * [Jura, mai 2025](/sorties_annuelles/2025/06/01/jura.html)
 * [Coteaux du Layon, octobre 2024](/sorties_annuelles/2024/10/19/anjou.html)
 * [Vosges, mai 2024](/sorties_annuelles/2024/05/09/vosges.html)
