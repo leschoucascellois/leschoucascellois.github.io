@@ -99,5 +99,7 @@ parties plus difficiles à passer (chemin encombré d'arbres ou labouré par nos
 amis sangliers.) La fin a été coupée plus tôt que prévu du fait d'une battue
 en plein sur la trace finale. Ce fut quand même une bonne sortie de 25 kilomètres.
 
+Voici [la vidéo du week-end](https://mega.nz/file/kM4kEDTC#LSLl6PACvTeqlKLWP2NBGSLPrsvM7sRM4QAjUilZVaA)
+montée par Pierre.
 Nous avons tous hâte de trouver une nouvelle destination pour 2026 afin de
 partager à nouveaux ces moments de sport et convivialité.
