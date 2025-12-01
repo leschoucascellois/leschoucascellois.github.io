@@ -35,6 +35,9 @@ feature_row:
 Nous sommes **un club VTT** situé à La Celle Saint-Cloud (Yvelines, France).
 VTT traditionnels, gravels et VTT à assistance électrique (VTTAE) sont les bienvenus.
 Le club est actuellement **ouvert aux majeurs** uniquement.
+Nous organisons des [sorties du dimanche](sorties_du_dimanche/),
+de [grandes sorties annuelles](sorties_annuelles/),
+ainsi que des *ateliers mécanique* au local du club.
 
 {% include feature_row %}
 
