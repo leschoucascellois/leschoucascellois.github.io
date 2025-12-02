@@ -37,7 +37,9 @@ VTT traditionnels, gravels et VTT à assistance électrique (VTTAE) sont les bie
 Le club est actuellement **ouvert aux majeurs** uniquement.
 Nous organisons des [sorties du dimanche](sorties_du_dimanche/),
 de [grandes sorties annuelles](sorties_annuelles/),
-ainsi que des *ateliers mécanique* au local du club.
+ainsi que des *ateliers mécanique* au local du club,
+lors desquels certains membres font bénéficier les autres
+de leur expertise.
 
 {% include feature_row %}
 
