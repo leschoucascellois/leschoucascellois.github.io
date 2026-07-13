@@ -5,7 +5,7 @@ header:
 # If overlay_image is used, then the title appears on top of it,
 # but this makes the image height very small.
   image: /assets/images/bandeaux/animation.webp
-feature_row:
+dimanche:
   - image_path: /assets/images/sorties_du_dimanche.jpg
     title: Sorties du dimanche
     excerpt: Le départ se fait au club **à 8h30 en été** et **à 9h en hiver**.
@@ -15,41 +15,35 @@ feature_row:
              mais également des Hauts de Seine, du Val d'Oise et de l'Essonne.
     url:  /sorties_du_dimanche/
     btn_label: En savoir plus
+annuelles:
   - image_path: /assets/images/sorties_annuelles.jpg
     title: Grandes sorties annuelles
-    excerpt: Nous organisons habituellement
-             une sortie de l'Ascension en mai (4 jours)
-             et une sortie dite "VTTicole" fin septembre (2 jours).
+    excerpt: Nous organisons chaque année
+             une **sortie de l'Ascension en mai** (4 jours)
+             et une **sortie "VTTicole" fin septembre** (2 jours).
     url: /sorties_annuelles/
     btn_label: En savoir plus
-  - image_path: /assets/images/logo-g8c.jpg
-    title: Le Grand Huit Cellois
-    excerpt: Notre randonnée annuelle, ouverte à tous,
-             rassemble environ 500 participant(e)s.
-             Elle est organisée par l'ensemble des Choucas
-             pour faire partager notre passion et nos chemins.
-    url:     https://grand8cellois.github.io/
-    btn_label: Le site du Grand Huit Cellois
+decouvrir:
+  - image_path: /assets/images/rando-montagne-small.jpg
+    title: Découvrir notre club
+    excerpt: Pour découvrir notre club,
+             nous vous proposons **trois sorties gratuites et sans engagement**.
+             Vous serez couvert(e) par notre assurance responsabilité civile.
+    url: /decouvrir/
+    btn_label: En savoir plus
 ---
 
 Nous sommes **un club VTT** situé à La Celle Saint-Cloud (Yvelines, France).
+Le club est **ouvert uniquement aux adultes**, hommes et femmes.
 VTT traditionnels, gravels et VTT à assistance électrique (VTTAE) sont les bienvenus.
-Le club est actuellement **ouvert aux majeurs** uniquement.
 Nous organisons des [sorties du dimanche](sorties_du_dimanche/),
 de [grandes sorties annuelles](sorties_annuelles/),
 ainsi que des *ateliers mécanique* au local du club,
-lors desquels certains membres font bénéficier les autres
+lors desquels certain(e)s membres font bénéficier les autres
 de leur expertise.
 
-{% include feature_row %}
+{% include feature_row id="dimanche" type="left" %}
 
-Pour découvrir notre club, laissez-vous tenter par notre formule "invité":
-nous vous proposons **trois sorties gratuites et sans engagement**. Vous serez
-couverts par notre assurance responsabilité civile. Nous vous demandons
-simplement de nous prévenir quelques jours à l'avance et de venir avec votre
-VTT, votre casque (obligatoire), vos gants (recommandés), de l'eau,
-et quelques barres énergétiques.
+{% include feature_row id="annuelles" type="right" %}
 
-Notre local est situé [5 allée Victor Hugo](https://www.google.fr/maps/place/Les+Choucas+Cellois/@48.8435835,2.1260905,17.75z/data=!4m5!3m4!1s0x0:0x13b3eb09b018f7!8m2!3d48.8433532!4d2.1264392?hl=fr&authuser=2){:target="_blank"} à La Celle Saint-Cloud,
-à [7 minutes en vélo](https://www.google.fr/maps/dir/Gare+de+La+Celle+Saint+Cloud,+Avenue+Nicolas+Boileau,+La+Celle-Saint-Cloud/5+All.+Victor+Hugo,+78170+La+Celle-Saint-Cloud/@48.8449815,2.1305282,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47e67d2107c6527f:0xbf3535aff1fad567!2m2!1d2.13806!2d48.84304!1m5!1m1!1s0x47e67d3c48f5465d:0x53fae82634ddbb12!2m2!1d2.1264769!2d48.8433748!3e1){:target="_blank"} de la gare de La Celle Saint-Cloud,
-accessible depuis Paris Saint-Lazare et La Défense via la ligne L du Transilien.
+{% include feature_row id="decouvrir" type="left" %}
