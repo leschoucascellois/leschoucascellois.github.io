@@ -14,9 +14,13 @@ Avant toute inscription, nous vous conseillons de découvrir le club via notre
 formule *invité(e)*. Nous vous proposons d'essayer nos [sorties du
 dimanche](/sorties_du_dimanche/) via **trois sorties gratuites et sans
 engagement**. Vous serez couvert(e) par notre assurance responsabilité civile.
-Nous vous demandons simplement de nous prévenir quelques jours à l'avance.
+Nous vous demandons simplement de
+[nous prévenir](mailto:contact_mail@leschoucascellois.org)
+quelques jours à l'avance.
+Notez que le club est actuellement **ouvert uniquement aux adultes**.
 
-Le club est actuellement **ouvert uniquement aux adultes**.
+Pour savoir [quel matériel apporter](#matériel), ou pour [évaluer
+votre niveau](#évaluer-votre-niveau) physique et technique, voyez ci-dessous.
 
 ## Matériel
 
@@ -43,6 +47,26 @@ une pompe de petite taille ainsi que
 des démonte-pneu, des rustines,
 une chambre à air adaptée à la taille de vos roues,
 et un multi-outil comportant des tournevis, clefs Allen, clef Torx, etc.
+
+## Évaluer votre niveau
+
+Si jamais vous hésitez à venir rouler avec nous
+pour quelques séances d'essai,
+nous vous proposons d'évaluer vous-même votre niveau
+via deux parcours de test au départ du club :
+
++ la trace de [5 kilomètres](/assets/traces/Choucas-test-5km.gpx)
+  et 85 mètres de dénivelée positive
+  demande normalement entre 20 et 30 minutes;
++ la trace de [12 kilomètres](/assets/traces/Choucas-test-12km.gpx)
+  et 200 mètres de dénivelée positive
+  demande normalement entre 50 et 70 minutes.
+
+Nous vous proposons ces traces et indications de temps afin de vous donner une
+idée de ce que nous faisons habituellement. Il ne s'agit pas de vous demander
+de faire le meilleur temps possible sur ces tracés, mais de vous permettre de
+déterminer si ce type de pratique correspond à vos attentes et à vos
+capacités.
 
 ## Situation
 
