@@ -68,6 +68,10 @@ de faire le meilleur temps possible sur ces tracés, mais de vous permettre de
 déterminer si ce type de pratique correspond à vos attentes et à vos
 capacités.
 
+Lors de chaque sortie, nous nous adaptons au niveau et aux souhaits des
+participant(e)s présent(e)s. Si le nombre de participant(e)s le permet,
+nous formons plusieurs groupes.
+
 ## Situation
 
 Notre local est situé [5 allée Victor Hugo](https://www.google.fr/maps/place/Les+Choucas+Cellois/@48.8435835,2.1260905,17.75z/data=!4m5!3m4!1s0x0:0x13b3eb09b018f7!8m2!3d48.8433532!4d2.1264392?hl=fr&authuser=2){:target="_blank"} à La Celle Saint-Cloud,

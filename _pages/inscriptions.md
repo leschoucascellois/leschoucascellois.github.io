@@ -11,7 +11,17 @@ sidebar:
 ---
 
 Avant de vous inscrire, nous vous conseillons de [découvrir notre club](/decouvrir/)
-via la formule "invité(e)".
+via la formule *invité(e)*.
+
+## Pourquoi adhérer au club?
+
+* Pour la **convivialité** et la bonne humeur des sorties en groupe
+* Pour découvrir **de nouveaux sentiers** dans l'Ouest parisien
+* Pour être encouragé(e) à **sortir régulièrement**
+* Pour être **tiré(e) vers le haut** en termes sportifs
+* Pour accéder aux **outils** du club et participer aux ateliers mécanique
+* Pour participer aux stages de **maniabilité** et aux [sorties annuelles](/sorties_annuelles/)
+* Pour accéder au **forum** de discussion du club (Signal)
 
 ## Tarif et inscription
 
