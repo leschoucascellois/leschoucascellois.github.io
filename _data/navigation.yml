@@ -2,13 +2,15 @@
 main:
   - title: Actualités
     url: /actualites/
-  - title: Sorties du dimanche
+  - title: Sorties
     url: /sorties_du_dimanche/
-  - title: Sorties annuelles
+  - title: Voyages
     url: /sorties_annuelles/
   - title: Découvrir
     url: /decouvrir/
   - title: S'inscrire
     url: /inscriptions/
+  - title: Team building
+    url: /team_building/
   - title: Contact
     url: mailto:contact_mail@leschoucascellois.org
