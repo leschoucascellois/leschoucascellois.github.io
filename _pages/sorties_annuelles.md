@@ -15,12 +15,9 @@ et **une sortie de 2 jours fin septembre**,
 traditionnellement appelée "week-end VTTicole".
 Ces séjours sont sportifs, convivaux et gastronomiques!
 
-Voici les prochaines grandes sorties prévues:
-
-* Automne 2026: Bourgogne
-
 Voici nos grandes sorties les plus récentes:
 
+* [Bourgogne, septembre 2026](/sorties_annuelles/2026/09/20/bourgogne.html)
 * [Cantal, mai 2026](/sorties_annuelles/2026/05/13/cantal.html)
 * [Champagne, octobre 2025](/sorties_annuelles/2025/10/10/champagne.html)
 * [Jura, mai 2025](/sorties_annuelles/2025/06/01/jura.html)
